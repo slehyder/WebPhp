@@ -1,0 +1,83 @@
+#slider_container_2 { float: left;
+  
+position:inherit;
+ /*padding: 15px;*/ /*este codigo venia predeterminado en el slider*/ 
+
+ 
+ background:#94A2E4;
+width: 700px;
+height:253px;
+border-radius: 25px; 
+-moz-border-radius: 25px; 
+-webkit-border-radius: 25px; 
+border: 2px double #9C9C9C;
+ }
+
+.SliderName_2 {
+	float: left;
+	 position:inherit;
+	width: 660px;
+	height:230px;
+	overflow: hidden;
+	margin-left: 20px;
+margin-top: 9px;
+}
+
+.SliderNamePrev_2 {
+	background: url(../imagenes/left.png) no-repeat left center;
+	width: 50px;
+	height: 495px;
+	display: block;
+	position:inherit;
+	top: 0;
+	left: 0;
+	text-decoration: none;
+}
+
+.SliderNameNext_2 {
+	background: url(../imagenes/right.png) no-repeat right center;
+	width: 50px;
+	height: 495px;
+	display: block;
+	
+	position:inherit;
+	top: 0;
+	right: 0;
+	text-decoration: none;
+}
+
+.SliderName_2Description {
+	padding: 10px;
+	font-family: Tahoma,Arial,Helvetica;
+	font-size: 14px;
+	line-height: 30px;
+	letter-spacing: 1px;
+	text-align: center;
+	color: #ffffff;
+	text-shadow: 0 1px 3px #000000;
+}
+
+#SliderNameNavigation_2 { margin: 0; padding: 10px 0 0 0; height: 16px; text-align: center; overflow-y: hidden; margin-top:200px; }
+
+#SliderNameNavigation_2 a:link, #SliderNameNavigation_2 a:active, #SliderNameNavigation_2 a:visited, #SliderNameNavigation_2 a:hover{
+	margin: 0;
+	padding: 0;
+	font-size: 0;
+	line-height: 0;
+	text-decoration: none;
+	margin-top: 200px;
+}
+
+#SliderNameNavigation_2 a img
+{
+margin-top: 200px;
+	border: none;
+	width: 16px;
+	height: 16px;
+	background: url(../imagenes/bullet.png) no-repeat center center;
+}
+
+#SliderNameNavigation_2 a.active img
+{
+	background: url(../imagenes/bullet_active.png) no-repeat center center;
+}

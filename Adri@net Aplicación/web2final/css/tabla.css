@@ -1,0 +1,48 @@
+.tabla {
+ width:890px;
+ border-top:1px solid #ccc;
+ border-left:1px solid #ccc;
+ background-color:#eee;
+ color: gray;
+ text-align:justify;
+ font-family:arial,verdana,times;
+ font-size:12px;
+margin-left: 37px;
+
+
+ }
+.tabla p {
+ clear:both;
+ width: 100%;
+ margin: 0;
+}
+
+.tabla .titulo {
+ padding: 5px;
+ background-color: #ddd;
+ font-family:arial,verdana,times;
+ float:left;width:100px;
+ border-right: 1px solid #ccc;
+ font-weight:bold;
+ 
+
+
+ }
+
+.tabla .columna {
+ padding: 5px;
+ float:left;width:100px;
+ border-right: 1px solid #ccc;
+ border-bottom: 1px solid #ccc;
+
+height: 165px;
+ }
+ 
+ .tabla .columna_usu {
+ padding: 5px;
+ float:left;width:100px;
+ border-right: 1px solid #ccc;
+ border-bottom: 1px solid #ccc;
+
+height: 20px;
+ }

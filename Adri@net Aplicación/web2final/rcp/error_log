@@ -1,0 +1,39 @@
+[05-Nov-2014 21:59:58 America/Chicago] PHP Warning:  require_once(../Conexion/conexion.php): failed to open stream: No such file or directory in /home/adrianet/public_html/rcp/recp2.php on line 251
+[05-Nov-2014 21:59:58 America/Chicago] PHP Fatal error:  require_once(): Failed opening required '../Conexion/conexion.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/adrianet/public_html/rcp/recp2.php on line 251
+[05-Nov-2014 23:42:11 America/Chicago] PHP Parse error:  syntax error, unexpected '=' in /home/adrianet/public_html/rcp/recp2.php on line 292
+[05-Nov-2014 23:43:55 America/Chicago] PHP Parse error:  syntax error, unexpected '=' in /home/adrianet/public_html/rcp/recp2.php on line 292
+[05-Nov-2014 23:43:57 America/Chicago] PHP Parse error:  syntax error, unexpected '=' in /home/adrianet/public_html/rcp/recp2.php on line 292
+[05-Nov-2014 23:43:59 America/Chicago] PHP Parse error:  syntax error, unexpected '=' in /home/adrianet/public_html/rcp/recp2.php on line 292
+[05-Nov-2014 23:44:20 America/Chicago] PHP Parse error:  syntax error, unexpected '=' in /home/adrianet/public_html/rcp/recp2.php on line 292
+[05-Nov-2014 23:46:31 America/Chicago] PHP Parse error:  syntax error, unexpected '<' in /home/adrianet/public_html/rcp/recp2.php on line 305
+[09-Nov-2014 20:18:34 America/Chicago] PHP Parse error:  syntax error, unexpected 'true' (T_STRING) in /home/adrianet/public_html/rcp/recp2.php on line 299
+[09-Nov-2014 20:19:47 America/Chicago] PHP Parse error:  syntax error, unexpected 'true' (T_STRING) in /home/adrianet/public_html/rcp/recp2.php on line 299
+[09-Nov-2014 20:19:55 America/Chicago] PHP Parse error:  syntax error, unexpected 'true' (T_STRING) in /home/adrianet/public_html/rcp/recp2.php on line 299
+[09-Nov-2014 20:22:56 America/Chicago] PHP Parse error:  syntax error, unexpected 'true' (T_STRING) in /home/adrianet/public_html/rcp/recp2.php on line 297
+[09-Nov-2014 20:25:01 America/Chicago] PHP Parse error:  syntax error, unexpected 'true' (T_STRING) in /home/adrianet/public_html/rcp/recp2.php on line 297
+[09-Nov-2014 20:25:03 America/Chicago] PHP Parse error:  syntax error, unexpected 'true' (T_STRING) in /home/adrianet/public_html/rcp/recp2.php on line 297
+[09-Nov-2014 20:25:05 America/Chicago] PHP Parse error:  syntax error, unexpected 'true' (T_STRING) in /home/adrianet/public_html/rcp/recp2.php on line 297
+[09-Nov-2014 20:28:46 America/Chicago] PHP Parse error:  syntax error, unexpected '<' in /home/adrianet/public_html/rcp/recp2.php on line 319
+[09-Nov-2014 20:33:51 America/Chicago] PHP Parse error:  syntax error, unexpected '<' in /home/adrianet/public_html/rcp/recp2.php on line 318
+[09-Nov-2014 20:38:29 America/Chicago] PHP Parse error:  syntax error, unexpected '<' in /home/adrianet/public_html/rcp/recp2.php on line 319
+[09-Nov-2014 20:39:14 America/Chicago] PHP Parse error:  syntax error, unexpected '<' in /home/adrianet/public_html/rcp/recp2.php on line 319
+[09-Nov-2014 20:40:44 America/Chicago] PHP Parse error:  syntax error, unexpected '<' in /home/adrianet/public_html/rcp/recp2.php on line 319
+[09-Nov-2014 20:40:50 America/Chicago] PHP Parse error:  syntax error, unexpected '<' in /home/adrianet/public_html/rcp/recp2.php on line 319
+[09-Nov-2014 20:41:48 America/Chicago] PHP Parse error:  syntax error, unexpected '<' in /home/adrianet/public_html/rcp/recp2.php on line 320
+[09-Nov-2014 20:45:16 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home/adrianet/public_html/rcp/recp2.php on line 383
+[09-Nov-2014 20:45:18 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home/adrianet/public_html/rcp/recp2.php on line 383
+[09-Nov-2014 20:45:29 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home/adrianet/public_html/rcp/recp2.php on line 383
+[09-Nov-2014 20:45:31 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home/adrianet/public_html/rcp/recp2.php on line 383
+[09-Nov-2014 23:29:53 America/Chicago] PHP Parse error:  syntax error, unexpected '"' in /home/adrianet/public_html/rcp/recp2.php on line 293
+[10-Nov-2014 19:55:17 America/Chicago] PHP Parse error:  syntax error, unexpected '<' in /home/adrianet/public_html/rcp/recp2.php on line 284
+[10-Nov-2014 19:59:45 America/Chicago] PHP Fatal error:  Function name must be a string in /home/adrianet/public_html/rcp/recp2.php on line 297
+[10-Nov-2014 20:00:22 America/Chicago] PHP Fatal error:  Function name must be a string in /home/adrianet/public_html/rcp/recp2.php on line 297
+[10-Nov-2014 20:09:32 America/Chicago] PHP Fatal error:  Function name must be a string in /home/adrianet/public_html/rcp/recp2.php on line 297
+[10-Nov-2014 20:10:36 America/Chicago] PHP Fatal error:  Function name must be a string in /home/adrianet/public_html/rcp/recp2.php on line 297
+[10-Nov-2014 21:16:04 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home/adrianet/public_html/rcp/recp2.php on line 393
+[10-Nov-2014 21:19:36 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home/adrianet/public_html/rcp/recp2.php on line 393
+[10-Nov-2014 21:19:40 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home/adrianet/public_html/rcp/recp2.php on line 393
+[13-Nov-2014 20:32:27 America/Chicago] PHP Parse error:  syntax error, unexpected '"' in /home/adrianet/public_html/rcp/recp2.php on line 299
+[13-Nov-2014 20:33:55 America/Chicago] PHP Parse error:  syntax error, unexpected 'Content' (T_STRING) in /home/adrianet/public_html/rcp/recp2.php on line 300
+[13-Nov-2014 20:33:57 America/Chicago] PHP Parse error:  syntax error, unexpected 'Content' (T_STRING) in /home/adrianet/public_html/rcp/recp2.php on line 300
+[13-Nov-2014 20:34:12 America/Chicago] PHP Parse error:  syntax error, unexpected 'email' (T_STRING) in /home/adrianet/public_html/rcp/recp2.php on line 299

@@ -1,0 +1,65 @@
+
+
+a
+{
+	text-decoration: none;
+}
+
+
+
+
+
+
+.hoverbox
+{
+	cursor: default;
+	list-style: none;
+}
+
+.hoverbox a
+{
+	cursor: default;
+}
+
+.hoverbox a .preview
+{
+	display: none;
+}
+
+.hoverbox a:hover .preview
+{
+	display: block;
+	position: absolute;
+	top: -40px;
+	left: -175px;
+	z-index: 1;
+}
+
+.hoverbox img
+{
+	border-color:#9999FF;
+	border-style: solid;
+	border-width: 1px;
+
+
+
+}
+
+.hoverbox li
+{
+	background: #eee;
+    
+	color: inherit;
+	display: inline;
+	float: left;
+	position: relative;
+}
+
+.hoverbox .preview
+{
+	border-color:#9999FF;
+	width: 220px;
+	height: 210px;
+		
+	
+}
